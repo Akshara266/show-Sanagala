@@ -8,7 +8,6 @@ Shrimp is one of my all-time favorite foods. It's not only delicious but also **
 1) Local Seafood Market
 2) Supermarket
 3) Fine Dining Restaurant
-
 - Garlic Bread
 - Roasted Vegetables
 - Rice Pilaf
