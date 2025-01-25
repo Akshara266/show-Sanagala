@@ -12,6 +12,6 @@ Shrimp is one of my all-time favorite foods. It's not only delicious but also **
 - Roasted Vegetables
 - Rice Pilaf
 
-## Check out my movie review!
 
+## Check out my movie review!
 [My Favorite Movie](./MyMovie.md)
