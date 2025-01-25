@@ -15,3 +15,12 @@ While Allu Arjun did a phenomenal job portraying Pushpa in the movie **Pushpa**,
 | Priyanka Chopra   | Her versatility and ability to play powerful roles.| 41  |
 | Fahadh Faasil     | His intense acting skills and versatility.         | 40  |
 | Vijay Sethupathi  | His ability to portray rugged and raw characters.  | 45  |
+
+---
+
+## Favorite Quotes
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."  
+> *- Winston Churchill*
+
+> "The only limit to our realization of tomorrow will be our doubts of today."  
+> *- Franklin D. Roosevelt*
