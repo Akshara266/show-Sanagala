@@ -7,7 +7,7 @@ One of my favorite movies is "Pushpa," starring Allu Arjun. I love this film for
 ---
 
 ## Other Actors for the Role
-While Allu Arjun did a phenomenal job portraying Pushpa in the movie *Pushpa*, here are a few other actors I believe could also bring unique interpretations to the role. These actors come from various backgrounds, and their distinct styles could add an interesting twist to the character.
+While Allu Arjun did a phenomenal job portraying Pushpa in the movie **Pushpa**, here are a few other actors I believe could also bring unique interpretations to the role. These actors come from various backgrounds, and their distinct styles could add an interesting twist to the character.
 
 | Suggested Actor   | Reason for Selection                               | Age |
 |-------------------|----------------------------------------------------|-----|
