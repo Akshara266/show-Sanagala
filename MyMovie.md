@@ -4,7 +4,6 @@ One of my favorite movies is "Pushpa," starring Allu Arjun. I love this film for
 
 ![Main Actor](./allu_arjun_pushpa.jpg)
 
-
 ---
 
 ## Other Actors for the Role
