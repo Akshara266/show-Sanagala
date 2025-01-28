@@ -45,19 +45,14 @@ While Allu Arjun did a phenomenal job portraying Pushpa in the movie **Pushpa**,
 This snippet calculates the 8th Fibonacci number using recursion.
 
 ```python
-def fibonacci(n):
-    if n <= 0:
-        return "Invalid input"
-    elif n == 1:
-        return 0
-    elif n == 2:
-        return 1
-    else:
-        return fibonacci(n-1) + fibonacci(n-2)
+def merge(*args, missing_val = None):
+  max_length = max([len(lst) for lst in args])
+  out_list = []
 
-print(fibonacci(8))
+  for i in range(max_length):
+    out_list.append([args[k][i] if i < len(args[k]) else missing_val for k in range(len(args))])
+
+  return out_list
 ```
 
-**Output**: 13
-
-[Learn More About Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number)
+[Learn More About Fibonacci](https://code.pieces.app/collections/python)
