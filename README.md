@@ -38,6 +38,7 @@ While Allu Arjun did a phenomenal job portraying Pushpa in the movie **Pushpa**,
 > "The only limit to our realization of tomorrow will be our doubts of today."  
 > *- Franklin D. Roosevelt*
 
+
 ---
 ## Code Fencing Assignment
 ### Python Snippet 8: Fibonacci Sequence
@@ -53,5 +54,8 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 
 print(fibonacci(8))
+
+**Output**: 13
+
 
 [Learn More About Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number)
