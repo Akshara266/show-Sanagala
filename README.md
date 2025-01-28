@@ -43,14 +43,14 @@ While Allu Arjun did a phenomenal job portraying Pushpa in the movie **Pushpa**,
 ## Code Fencing Assignment
 ### Python Snippet 8: Fibonacci Sequence
 This snippet calculates the 8th Fibonacci number using recursion.
-def fibonacci(n):
-    if n <= 0:
+ def fibonacci(n):
+     if n <= 0:
         return "Invalid input"
-    elif n == 1:
+     elif n == 1:
         return 0
-    elif n == 2:
+     elif n == 2:
         return 1
-    else:
+     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
 print(fibonacci(8))
