@@ -59,7 +59,3 @@ print(fibonacci(8))
 
 **Output**: 13
 
-
-
-
-[Learn More About Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number)
